@@ -23,4 +23,4 @@ python3 tools/patch_server_jars.py <伺服器 mods 資料夾> <輸出資料夾>
 本倉庫的譯文為人工撰寫的少量訊息，尚未經過其他玩家校對。發現錯誤請開 issue。
 
 ## 授權
-翻譯內容以 [CC BY-NC-SA 4.0](LICENSE) 釋出，與 GT New Horizons 模組包一致。原文著作權屬 GTNH 團隊及各模組作者；本專案不含任何模組 jar。
+翻譯內容以 [GPL-3.0](LICENSE) 釋出，與 GTNH-Translations 及客戶端語言包一致。原文著作權屬 GTNH 團隊及各模組作者；本專案不含任何模組 jar。
