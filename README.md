@@ -19,5 +19,8 @@ python3 tools/patch_server_jars.py <伺服器 mods 資料夾> <輸出資料夾>
 ```
 原檔不會被修改。請先備份原 jar，再把輸出的 jar 換進 `mods`，重啟伺服器。若伺服器正在執行，請用改名覆蓋（`mv`）而不是直接複製覆蓋。
 
+## 翻譯品質
+本倉庫的譯文為人工撰寫的少量訊息，尚未經過其他玩家校對。發現錯誤請開 issue。
+
 ## 授權
 翻譯內容以 [CC BY-NC-SA 4.0](LICENSE) 釋出，與 GT New Horizons 模組包一致。原文著作權屬 GTNH 團隊及各模組作者；本專案不含任何模組 jar。
